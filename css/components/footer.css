@@ -1,0 +1,23 @@
+.footer {
+    text-align: center;
+    padding: 50px;
+    background-color: #0c0f0af5;
+}
+
+.footer a {
+    padding: 0 20px;
+    font-size: 24px;
+    display: inline-block;
+    color: rgb(169, 47, 240);
+    transition: .4s;
+}
+
+.footer a:hover {
+    color:rgb(110, 29, 156);
+}
+
+.paragraph-footer {
+    color: rgb(177, 165, 165);
+    opacity: .6 ; 
+    font-size: 16px;
+}

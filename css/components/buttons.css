@@ -1,0 +1,12 @@
+.btn-primary {
+    display: inline-block;
+    color:whitesmoke;
+    background-color: rgb(169, 47, 240);
+    padding: 16px 36px;
+    border-radius: 40px;
+    transition: .3s;
+}
+
+.btn-primary:hover {
+    background-color: rgb(110, 29, 156);
+}
